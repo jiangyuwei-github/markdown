@@ -13,16 +13,28 @@
 
 ![alt](url text)
 
-![baidu](https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2094878688,2631469296&fm=58https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2094878688,2631469296&fm=58 "字体图片")
+![baidu](https://www.baidu.com/img/bd_logo1.png "字体图片")
 - 本地
 ![](images/a.jpg)
 
 
 # 引用
+>这是一个引方便  
 
+出自<b报名通过后>
+
+多次引用
+>>> 多重引文
 
 # 代码块 dome
 
+``` javascript
+var a =10;
+console.log(a)
+
+```
+
+模压国厅村械栽`var a = 10;` sdfsadfasdfasdfasdf
 
 
 
